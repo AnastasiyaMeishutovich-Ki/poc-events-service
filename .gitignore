@@ -1,0 +1,13 @@
+### IDES ###
+**/.idea
+**/.vscode
+
+.DS_Store
+
+node_modules
+dist
+build
+.gradle
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
